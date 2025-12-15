@@ -5,7 +5,7 @@ if __name__ == '__main__':
     _news_full = open(f'{base_dir}/news.md').read().strip()
     # Extract only the news content before the collapsible section
     _news = _news_full.split('<div class="container">')[0].strip()
-    _news += '\n- ...\n\n(*For more news, please see personal page.*)'
+    _news += '\n- ... (*For more news, please see personal page.*)'
     with open('README.md', 'w') as f:
         f.write(_intro)
         f.write('\n\n##')
