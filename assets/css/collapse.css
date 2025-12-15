@@ -1,16 +1,35 @@
 .container {
     width:100%;
-    border:1px solid #d3d3d3;
+    border: none;
 }
 .container div {
     width:100%;
 }
 .container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
-    cursor: pointer;
-    font-weight: bold;
+    background-color: transparent;
+    padding: 8px 12px;
+    cursor: pointer !important;
+    font-weight: 500;
+    color: #1e6bb8 !important;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s ease;
+    border: none;
+    font-size: 1.05em;
+}
+.container .header:hover {
+    color: #0056b3 !important;
+    text-decoration: underline;
+    transform: translateX(2px);
+}
+.container .header::before {
+    content: "▶ ";
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+.container .header.expanded::before {
+    transform: rotate(90deg);
 }
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 5px;

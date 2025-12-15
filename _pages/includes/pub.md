@@ -1,6 +1,28 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/posegam.png"><img src='images/posegam.png' alt="PoseGAM" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2512.10840"><b>PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning</b></a> \\
+ *ArXiv, 2025* \\
+**<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
+[<a href="https://arxiv.org/abs/2512.10840">PDF</a>] [<a href="https://github.com/WindVChen/PoseGAM">Code</a>] [<a href="https://windvchen.github.io/PoseGAM/">Project</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/shapegen4d.png"><img src='images/shapegen4d.png' alt="ShapeGen4D" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2510.06208"><b>ShapeGen4D: Towards High Quality 4D Shape Generation from Videos</b></a> \\
+ *ArXiv, 2025* \\
+Jiraphon Yenphraphai, Ashkan Mirzaei, **<font color="#C00000">Jianqi Chen</font>**, Jiaxu Zou, Sergey Tulyakov, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
+[<a href="https://arxiv.org/abs/2510.06208">PDF</a>] [<a href="https://shapegen4d.github.io/">Project</a>] 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/v2m4.png"><img src='images/v2m4.png' alt="V2M4" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 

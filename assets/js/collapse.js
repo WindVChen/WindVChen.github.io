@@ -7,10 +7,15 @@ $(".header").click(function () {
     $content.slideToggle(500, function () {
         //execute this after slideToggle is done
         //change text of header based on visibility of content div
-        $header.text(function () {
-            //change text based on condition
-            return $content.is(":visible") ? "Collapse" : "Expand";
-        });
+        if ($content.is(":visible")) {
+            $header.html("[ Collapse ]");
+            $header.addClass("expanded");
+        } else {
+            $header.html("[ Show more news ]");
+            $header.removeClass("expanded");
+        }
+        // Ensure cursor style is maintained
+        $header.css("cursor", "pointer");
     });
 
 });
