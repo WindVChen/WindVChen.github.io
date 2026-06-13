@@ -1,11 +1,22 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Helix4D.png"><img src='images/Helix4D.png' alt="Helix4D" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2605.26109"><b>Helix4D: Complex 4D Mesh Generation</b></a> \\
+ *ArXiv, 2026* \\
+Jiraphon Yenphraphai, **<font color="#C00000">Jianqi Chen</font>**, Jian Wang, Gordon Qian, Sergey Tulyakov, Rameen Abdal, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
+[<a href="https://arxiv.org/abs/2605.26109">PDF</a>] [<a href="https://snap-research.github.io/helix4d/">Project</a>] 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/posegam.png"><img src='images/posegam.png' alt="PoseGAM" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2512.10840"><b>PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning</b></a> \\
- *ArXiv, 2025* \\
+ *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026* **<font color="#C00000">(Oral, Top 3.4%)</font>** \\
 **<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
 [<a href="https://arxiv.org/abs/2512.10840">PDF</a>] [<a href="https://github.com/WindVChen/PoseGAM">Code</a>] [<a href="https://windvchen.github.io/PoseGAM/">Project</a>] 
 
@@ -16,7 +27,7 @@
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2510.06208"><b>ShapeGen4D: Towards High Quality 4D Shape Generation from Videos</b></a> \\
- *ArXiv, 2025* \\
+ *International Conference on Learning Representations (ICLR), 2026* \\
 Jiraphon Yenphraphai, Ashkan Mirzaei, **<font color="#C00000">Jianqi Chen</font>**, Jiaxu Zou, Sergey Tulyakov, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
 [<a href="https://arxiv.org/abs/2510.06208">PDF</a>] [<a href="https://shapegen4d.github.io/">Project</a>] 
 
