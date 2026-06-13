@@ -16,7 +16,8 @@ Jiraphon Yenphraphai, **<font color="#C00000">Jianqi Chen</font>**, Jian Wang, G
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2512.10840"><b>PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning</b></a> \\
- *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026* **<font color="#C00000">(Oral, Top 3.4%)</font>** \\
+ *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026* \\
+**<font color="#C00000">(Oral, Top 3.4%)</font>** \\
 **<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
 [<a href="https://arxiv.org/abs/2512.10840">PDF</a>] [<a href="https://github.com/WindVChen/PoseGAM">Code</a>] [<a href="https://windvchen.github.io/PoseGAM/">Project</a>] 
 
