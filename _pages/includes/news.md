@@ -1,14 +1,15 @@
 # 🔥 News
+- *2026.06*: One paper is accepted by ***<font color="red">ECCV 2026</font>***!
 - *2026.05*: Honored to receive the ***<font color="red">Outstanding Reviewer Award</font> (Top 5%)*** of ***CVPR 2026***!
 - *2026.04*: One paper is accepted by ***<font color="red">CVPR 2026</font> (Oral, Top 3.4%)***!
 - *2026.01*: One paper is accepted by ***<font color="red">ICLR 2026</font>***!
 - *2025.06*: One paper is accepted by ***<font color="red">ICCV 2025</font>***, and one paper is accepted by ***<font color="red">TIFS</font> (IF=8.0)***!!
-- *2025.01*: One paper is accepted by ***<font color="red">ICLR 2025</font>***!
 
 <div class="container">
     <div class="header" style="cursor: pointer;">[ Show more news ]</div>
     <div class="content" style="display: none;">
         <ul style="list-style-type: none; padding-left: 0;">
+            <li>- <em>2025.01</em>: One paper is accepted by <strong><font color="red">ICLR 2025</font></strong>!</li>
             <li>- <em>2024.11</em>: One paper is accepted by <strong><font color="red">TMM</font> (IF=8.4)</strong>!</li>
             <li>- <em>2024.10</em>: One paper is accepted by <strong><font color="red">TPAMI</font> (IF=20.8)</strong>!</li>
             <li>- <em>2024.07</em>: One paper is accepted by <strong><font color="red">TGRS</font> (IF=7.5)</strong>!</li>

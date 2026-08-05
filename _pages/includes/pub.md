@@ -1,6 +1,17 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/meshloom.png"><img src='images/meshloom.png' alt="MeshLoom" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2606.17027"><b>MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences</b></a> \\
+ *ArXiv, 2026* \\
+**<font color="#C00000">Jianqi Chen</font>**, Jiraphon Yenphraphai, Xiangjun Tang, Sergey Tulyakov, Chaoyang Wang, Peter Wonka, Rameen Abdal \\
+[<a href="https://arxiv.org/abs/2606.17027">PDF</a>] [<a href="https://meshloom.github.io/">Project</a>] 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Helix4D.png"><img src='images/Helix4D.png' alt="Helix4D" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -8,6 +19,17 @@
  *ArXiv, 2026* \\
 Jiraphon Yenphraphai, **<font color="#C00000">Jianqi Chen</font>**, Jian Wang, Gordon Qian, Sergey Tulyakov, Rameen Abdal, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
 [<a href="https://arxiv.org/abs/2605.26109">PDF</a>] [<a href="https://snap-research.github.io/helix4d/">Project</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/reghead.png"><img src='images/reghead.png' alt="RegHead" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2607.12206"><b>RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration</b></a> \\
+ *European Conference on Computer Vision (ECCV), 2026* \\
+Jiahao Luo, Hao Zhang, **<font color="#C00000">Jianqi Chen</font>**, Yijie He, Jiaxu Zou, Michael Vasilkovsky, Sergei Korolev, Sergey Tulyakov, Chaoyang Wang, Peter Wonka, James Davis, Jian Wang \\
+[<a href="https://arxiv.org/abs/2607.12206">PDF</a>] [<a href="https://github.com/snap-research/RegHead">Code</a>] [<a href="https://snap-research.github.io/RegHead/">Project</a>] 
 
 </div>
 </div>
