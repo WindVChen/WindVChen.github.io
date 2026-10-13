@@ -1,5 +1,6 @@
 # 🏆 Honors and Awards
 - *2026.05* Outstanding Reviewer Award of CVPR 2026 (**<font color="#C00000">Top 5%</font>**)
+- *2024.11* Top Reviewer of NeurIPS 2024 (**<font color="#C00000">Top 8.6%</font>**)
 - *2024.01* Outstanding Graduates of Beijing Municipality (**<font color="#C00000">Top 1%</font>**)
 - *2023.06* "Postgraduate Excellent Academic Innovation Achievement Award" of Beihang University
 - *2022.12* "Excellent graduate student" of Beihang University (**<font color="#C00000">Top 5%</font>**)

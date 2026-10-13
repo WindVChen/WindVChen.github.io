@@ -16,7 +16,8 @@
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2605.26109"><b>Helix4D: Complex 4D Mesh Generation</b></a> \\
- *ArXiv, 2026* \\
+ *Conference on Neural Information Processing Systems (NeurIPS), 2026* \\
+**<font color="#C00000">(Oral, Top 1.4%)</font>** \\
 Jiraphon Yenphraphai, **<font color="#C00000">Jianqi Chen</font>**, Jian Wang, Gordon Qian, Sergey Tulyakov, Rameen Abdal, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
 [<a href="https://arxiv.org/abs/2605.26109">PDF</a>] [<a href="https://snap-research.github.io/helix4d/">Project</a>] 
 
