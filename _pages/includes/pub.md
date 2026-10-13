@@ -17,7 +17,7 @@
 
 <a class=PaperTitle href="https://arxiv.org/abs/2605.26109"><b>Helix4D: Complex 4D Mesh Generation</b></a> \\
  *Conference on Neural Information Processing Systems (NeurIPS), 2026* \\
-**<font color="#C00000">(Oral, Top 1.4%)</font>** \\
+**<font color="#C00000">(Oral, Top 0.4%)</font>** \\
 Jiraphon Yenphraphai, **<font color="#C00000">Jianqi Chen</font>**, Jian Wang, Gordon Qian, Sergey Tulyakov, Rameen Abdal, Raymond A. Yeh, Peter Wonka, Chaoyang Wang \\
 [<a href="https://arxiv.org/abs/2605.26109">PDF</a>] [<a href="https://snap-research.github.io/helix4d/">Project</a>] 
 
@@ -40,7 +40,7 @@ Jiahao Luo, Hao Zhang, **<font color="#C00000">Jianqi Chen</font>**, Yijie He, J
 
 <a class=PaperTitle href="https://arxiv.org/abs/2512.10840"><b>PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning</b></a> \\
  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026* \\
-**<font color="#C00000">(Oral, Top 3.4%)</font>** \\
+**<font color="#C00000">(Oral, Top 0.9%)</font>** \\
 **<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
 [<a href="https://arxiv.org/abs/2512.10840">PDF</a>] [<a href="https://github.com/WindVChen/PoseGAM">Code</a>] [<a href="https://windvchen.github.io/PoseGAM/">Project</a>] 
 
@@ -140,7 +140,8 @@ Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2401.01646"><b>Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</b></a> \\
- *International Conference on Learning Representations (ICLR), 2024 (Spotlight)* \\
+ *International Conference on Learning Representations (ICLR), 2024* \\
+**<font color="#C00000">(Spotlight, Top 5%)</font>** \\
 Yilan Zhang, Yingxue Xu, **<font color="#C00000">Jianqi Chen</font>**, Fengying Xie, Hao Chen  \\
 [<a href="https://arxiv.org/abs/2401.01646">PDF</a>] [<a href="https://github.com/zylbuaa/PIBD">Code</a>] 
 

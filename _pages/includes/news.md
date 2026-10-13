@@ -1,8 +1,8 @@
 # 🔥 News
-- *2026.09*: One paper is accepted by ***<font color="red">NeurIPS 2026</font> (Oral, Top 1.4%)***!
+- *2026.09*: One paper is accepted by ***<font color="red">NeurIPS 2026</font> (Oral, Top 0.4%)***!
 - *2026.06*: One paper is accepted by ***<font color="red">ECCV 2026</font>***!
 - *2026.05*: Honored to receive the ***<font color="red">Outstanding Reviewer Award</font> (Top 5%)*** of ***CVPR 2026***!
-- *2026.04*: One paper is accepted by ***<font color="red">CVPR 2026</font> (Oral, Top 3.4%)***!
+- *2026.04*: One paper is accepted by ***<font color="red">CVPR 2026</font> (Oral, Top 0.9%)***!
 - *2026.01*: One paper is accepted by ***<font color="red">ICLR 2026</font>***!
 
 <div class="container">
@@ -16,7 +16,7 @@
             <li>- <em>2024.10</em>: One paper is accepted by <strong><font color="red">TPAMI</font> (IF=20.8)</strong>!</li>
             <li>- <em>2024.07</em>: One paper is accepted by <strong><font color="red">TGRS</font> (IF=7.5)</strong>!</li>
             <li>- <em>2024.05</em>: One paper is accepted by <strong><font color="red">TGRS</font> (IF=7.5)</strong>!</li>
-            <li>- <em>2024.01</em>: One paper is accepted by <strong><font color="red">ICLR 2024</font> (Spotlight)</strong>!</li>
+            <li>- <em>2024.01</em>: One paper is accepted by <strong><font color="red">ICLR 2024</font> (Spotlight, Top 5%)</strong>!</li>
             <li>- <em>2023.12</em>: One paper is accepted by <strong><font color="red">TGRS</font> (IF=7.5)</strong>!</li>
             <li>- <em>2023.10</em>: One paper is accepted by <strong><font color="red">TCSVT</font> (IF=8.3)</strong>!</li>
             <li>- <em>2023.09</em>: One paper is accepted by <strong><font color="red">TGRS</font> (IF=7.5)</strong>!</li>
